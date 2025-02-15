@@ -11,7 +11,7 @@ Welcome to My Salon, how can I help you?
 5) trim
 10
 
-I could not find that service. What would you like today?
+
 1) cut
 2) color
 3) perm
